@@ -37,6 +37,10 @@ body {
     border-color: #fff;
     border-style: dashed
 }
+img {
+    height: 100%;
+    width: auto;
+}
 
 @media(max-width: 800px) {
     body {
